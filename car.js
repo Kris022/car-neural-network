@@ -27,7 +27,7 @@ class Car{
         }
 
         if (this.sensor) {
-          this.sensor.update(roadBorders);
+          this.sensor.update(roadBorders, traffic);
         }
     }
 

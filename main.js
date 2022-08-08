@@ -1,4 +1,4 @@
-//collision detectoin
+//01:33
 const canvas = document.getElementById('myCanvas');
 
 canvas.width = 200;
